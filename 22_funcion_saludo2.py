@@ -1,4 +1,4 @@
-def saludar(nombre):
+def saludar(nombre="Desconocido"):
     """
     Esta función recibe un nombre y devuelve un saludo personalizado.
     """
@@ -6,3 +6,4 @@ def saludar(nombre):
 
 print(saludar("Jose"))
 print(saludar("M Mar"))
+print(saludar())
