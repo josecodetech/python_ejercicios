@@ -1,7 +1,7 @@
 class Persona:
     def __init__(self, nombre, edad):
-        self.nombre = nombre
-        self.edad = edad
+        self._nombre = nombre
+        self._edad = edad
     def saludar(self):
         return f"Hola, me llamo {self.nombre} y tengo {self.edad} años."
 Jose = Persona("José", 30)
