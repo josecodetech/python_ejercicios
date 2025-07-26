@@ -1,0 +1,5 @@
+2025-07-26 06:53:30,110 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:53:30,110 - INFO - Este es un mensaje informativo
+2025-07-26 06:53:30,110 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:53:30,110 - ERROR - Este es un mensaje de error
+2025-07-26 06:53:30,110 - CRITICAL - Este es un mensaje crítico

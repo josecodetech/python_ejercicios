@@ -1,0 +1,25 @@
+2025-07-26 06:49:36,405 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:49:36,406 - INFO - Este es un mensaje informativo
+2025-07-26 06:49:36,406 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:49:36,406 - ERROR - Este es un mensaje de error
+2025-07-26 06:49:36,406 - CRITICAL - Este es un mensaje crítico
+2025-07-26 06:49:36,406 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:49:36,406 - INFO - Este es un mensaje informativo
+2025-07-26 06:49:36,406 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:49:36,406 - ERROR - Este es un mensaje de error
+2025-07-26 06:49:36,406 - CRITICAL - Este es un mensaje crítico
+2025-07-26 06:49:36,406 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:49:36,406 - INFO - Este es un mensaje informativo
+2025-07-26 06:49:36,406 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:49:36,406 - ERROR - Este es un mensaje de error
+2025-07-26 06:49:36,406 - CRITICAL - Este es un mensaje crítico
+2025-07-26 06:49:36,406 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:49:36,406 - INFO - Este es un mensaje informativo
+2025-07-26 06:49:36,406 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:49:36,406 - ERROR - Este es un mensaje de error
+2025-07-26 06:49:36,406 - CRITICAL - Este es un mensaje crítico
+2025-07-26 06:49:36,406 - DEBUG - Este es un mensaje de depuración
+2025-07-26 06:49:36,406 - INFO - Este es un mensaje informativo
+2025-07-26 06:49:36,406 - WARNING - Este es un mensaje de advertencia
+2025-07-26 06:49:36,406 - ERROR - Este es un mensaje de error
+2025-07-26 06:49:36,406 - CRITICAL - Este es un mensaje crítico
